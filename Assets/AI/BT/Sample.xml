@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BehaviorTree>
+  <Behavior title = "Sequence">
+    <Behavior title = "Inverter">
+      <Behavior title = "Sounder"></Behavior>
+    </Behavior>
+    <Behavior title = "Logger"></Behavior>
+  </Behavior>
+</BehaviorTree>

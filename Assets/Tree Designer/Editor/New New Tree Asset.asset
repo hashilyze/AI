@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba6e12fee89a2b4780cef70083d0b13, type: 3}
+  m_Name: New New Tree Asset
+  m_EditorClassIdentifier: 
+  m_nodeTable:
+  - m_windowID: 0
+    m_rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    m_title: 
+    m_data: {fileID: 0}
+    m_key: 0
+    m_parentsKey: 0
+    m_childrenKeys: 
